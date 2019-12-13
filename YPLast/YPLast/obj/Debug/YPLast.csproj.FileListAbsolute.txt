@@ -8,3 +8,14 @@ C:\Users\user\source\repos\YPLast\YPLast\obj\Debug\YPLast.csproj.GenerateResourc
 C:\Users\user\source\repos\YPLast\YPLast\obj\Debug\YPLast.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\YPLast\YPLast\obj\Debug\YPLast.exe
 C:\Users\user\source\repos\YPLast\YPLast\obj\Debug\YPLast.pdb
+C:\Users\user\yp\YPLast\YPLast\bin\Debug\YPLast.exe.config
+C:\Users\user\yp\YPLast\YPLast\bin\Debug\YPLast.exe
+C:\Users\user\yp\YPLast\YPLast\bin\Debug\YPLast.pdb
+C:\Users\user\yp\YPLast\YPLast\obj\Debug\YPLast.csprojAssemblyReference.cache
+C:\Users\user\yp\YPLast\YPLast\obj\Debug\YPLast.MainForm.resources
+C:\Users\user\yp\YPLast\YPLast\obj\Debug\YPLast.Properties.Resources.resources
+C:\Users\user\yp\YPLast\YPLast\obj\Debug\YPLast.csproj.GenerateResource.cache
+C:\Users\user\yp\YPLast\YPLast\obj\Debug\YPLast.csproj.CoreCompileInputs.cache
+C:\Users\user\yp\YPLast\YPLast\obj\Debug\YPLast.exe
+C:\Users\user\yp\YPLast\YPLast\obj\Debug\YPLast.pdb
+C:\Users\user\yp\YPLast\YPLast\obj\Debug\YPLast.Registration.resources

@@ -30,6 +30,10 @@ namespace YPLast
 
         private void MainForm_Load(object sender, EventArgs e)
         {
+            this.Hide();
+            Registration registration = new Registration();
+            registration.ShowDialog(this);
+            this.Show();
             comboBoxCategory.SelectedIndex= 0;
             comboBox1.SelectedIndex = 0;
             string sql = "SELECT * FROM CookBookSecond";
